@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gkbFIprjfmo=",
+  "dgSpecHash": "4ubIT2y16A8=",
   "success": true,
-  "projectFilePath": "c:\\Users\\nvtie\\OneDrive\\Máy tính\\vercel deploy\\MyDotNetApi\\MyDotNetApi.csproj",
+  "projectFilePath": "C:\\Users\\nvtie\\OneDrive\\Máy tính\\vercel deploy\\MyDotNetApi\\MyDotNetApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nvtie\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
     "C:\\Users\\nvtie\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

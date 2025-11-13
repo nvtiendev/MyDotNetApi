@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\nvtie\\OneDrive\\Máy tính\\vercel deploy\\MyDotNetApi\\MyDotNetApi.csproj": {}
+    "C:\\Users\\nvtie\\OneDrive\\Máy tính\\vercel deploy\\MyDotNetApi\\MyDotNetApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\nvtie\\OneDrive\\Máy tính\\vercel deploy\\MyDotNetApi\\MyDotNetApi.csproj": {
+    "C:\\Users\\nvtie\\OneDrive\\Máy tính\\vercel deploy\\MyDotNetApi\\MyDotNetApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\nvtie\\OneDrive\\Máy tính\\vercel deploy\\MyDotNetApi\\MyDotNetApi.csproj",
+        "projectUniqueName": "C:\\Users\\nvtie\\OneDrive\\Máy tính\\vercel deploy\\MyDotNetApi\\MyDotNetApi.csproj",
         "projectName": "MyDotNetApi",
-        "projectPath": "c:\\Users\\nvtie\\OneDrive\\Máy tính\\vercel deploy\\MyDotNetApi\\MyDotNetApi.csproj",
+        "projectPath": "C:\\Users\\nvtie\\OneDrive\\Máy tính\\vercel deploy\\MyDotNetApi\\MyDotNetApi.csproj",
         "packagesPath": "C:\\Users\\nvtie\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\nvtie\\OneDrive\\Máy tính\\vercel deploy\\MyDotNetApi\\obj\\",
+        "outputPath": "C:\\Users\\nvtie\\OneDrive\\Máy tính\\vercel deploy\\MyDotNetApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nvtie\\AppData\\Roaming\\NuGet\\NuGet.Config"
